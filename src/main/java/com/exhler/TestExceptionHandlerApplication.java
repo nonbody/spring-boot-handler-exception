@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TestExceptionHandlerApplication {
 
 	public static void main(String[] args) {
-		System.out.println("G");
+		System.out.println("GXX");
 		SpringApplication.run(TestExceptionHandlerApplication.class, args);
 	}
 }
